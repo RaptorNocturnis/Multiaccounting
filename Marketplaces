@@ -1,0 +1,8 @@
+## 🎯 Target Book Marketplaces
+We are building scrapers and API integration layers for the following core platforms:
+- [ ] **Amazon (US/UK)** - Core inventory data and buy-box monitoring.
+- [ ] **AbeBooks** - Multi-account listing sync and merchant validation.
+- [ ] **Alibris** - Order routing and price tracking.
+- [ ] **eBay Books** - Parallel account checkout monitoring.
+
+*Note for developers: If you want to request support for an additional regional book portal, please open an **Issue** to discuss architectural feasibility.*
