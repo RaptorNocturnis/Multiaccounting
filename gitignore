@@ -1,0 +1,16 @@
+# Credentials and Environment Variables
+.env
+*.env
+config.json
+secrets.txt
+
+# Session Data & Anti-detect browser profiles
+/sessions/
+/profiles/
+.puppeteer-data/
+.playwright-data/
+
+# Local dependencies and logs
+node_modules/
+__pycache__/
+*.log
